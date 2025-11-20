@@ -1,0 +1,5 @@
+{
+  "name": "Shippo Rate Explorer",
+  "description": "A comprehensive shipping rate calculator using the GoShippo API, featuring AI-powered smart address parsing.",
+  "requestFramePermissions": []
+}
